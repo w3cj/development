@@ -2,3 +2,7 @@ body {
 	background: black;
 	color: lime;
 }
+
+p {
+	font-size: 2em;
+}
